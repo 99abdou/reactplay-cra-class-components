@@ -7,12 +7,11 @@
     border-radius: 5px;
   }
   
-  input{
-    height: 150px;
-    width: 150%;
-    /* height: 100%; */
-    margin-bottom: 30px;
-    border-radius: 5px;
+  .saisInput{
+    width: 340px;
+    height: 50vh;
+    border-radius: 10px;
+    background-color: #ffff;
   }
   
   button{
